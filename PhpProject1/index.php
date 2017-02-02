@@ -14,5 +14,6 @@ and open the template in the editor.
 		// put your code here
 		?>
 		Hello World
+	    ここで編集
     </body>
 </html>
